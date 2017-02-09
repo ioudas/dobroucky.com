@@ -1,0 +1,27 @@
+2017-02-08 02:24:38,450 [vmsql][Thread:12][ERROR] DotNetNuke.Services.Exceptions.Exceptions - System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Web.DDRMenu.Controller.ExportModule(Int32 moduleId)
+   at DotNetNuke.Entities.Modules.ModuleController.LocalizeModuleInternal(ModuleInfo sourceModule)
+2017-02-08 02:24:42,116 [vmsql][Thread:10][ERROR] DotNetNuke.Services.Exceptions.Exceptions - System.Data.SqlClient.SqlException (0x80131904): Transaction (Process ID 51) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at System.Data.SqlClient.SqlDataReader.Read()
+   at DotNetNuke.Common.Utilities.CBO.FillListFromReader[TItem](IDataReader dr, IList`1 objList, Boolean closeReader)
+   at DotNetNuke.Entities.Tabs.TabController.<>c__DisplayClass94_0.<GetTabsByPortal>b__0(CacheItemArgs c)
+   at DotNetNuke.Common.Utilities.DataCache.GetCachedDataFromRuntimeCache(CacheItemArgs cacheItemArgs, CacheItemExpiredCallback cacheItemExpired)
+ClientConnectionId:e77440b7-c862-445d-a16e-d9271eb88bcc
+Error Number:1205,State:51,Class:13
+2017-02-08 02:24:42,163 [vmsql][Thread:10][ERROR] DotNetNuke.Entities.Urls.UrlRewriterUtils - System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Entities.Portals.PortalInfo.get_Pages()
+   at DotNetNuke.Entities.Portals.PortalSettingsController.LoadPortal(PortalInfo portal, PortalSettings portalSettings)
+   at DotNetNuke.Entities.Portals.PortalSettings.BuildPortalSettings(Int32 tabId, PortalInfo portal)
+   at DotNetNuke.Entities.Urls.AdvancedUrlRewriter.ProcessRequest(HttpContext context, Uri requestUri, Boolean useFriendlyUrls, UrlAction result, FriendlyUrlSettings settings, Boolean allowSettingsChange, Guid parentTraceId)
+2017-02-08 02:24:42,272 [vmsql][Thread:12][ERROR] DotNetNuke.Services.Exceptions.Exceptions - System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetNuke.Web.DDRMenu.Controller.ExportModule(Int32 moduleId)
+   at DotNetNuke.Entities.Modules.ModuleController.LocalizeModuleInternal(ModuleInfo sourceModule)
+2017-02-08 02:32:51,208 [vmsql][Thread:11][ERROR] Dnn.PersonaBar.SiteSettings.Services.LanguagesController - Could not find file 'C:\inetpub\wwwroot\dobroucky.com\App_GlobalResources\SharedResources.cs-CZ.resx'.
+2017-02-08 02:39:56,980 [vmsql][Thread:11][ERROR] Dnn.PersonaBar.SiteSettings.Services.LanguagesController - Could not find file 'C:\inetpub\wwwroot\dobroucky.com\App_GlobalResources\GlobalResources.cs-CZ.resx'.
+2017-02-08 02:40:48,819 [vmsql][Thread:12][ERROR] Dnn.PersonaBar.SiteSettings.Services.LanguagesController - Could not find file 'C:\inetpub\wwwroot\dobroucky.com\DesktopModules\DDRMenu\App_LocalResources\MenuSettings.ascx.cs-CZ.resx'.
+2017-02-08 02:40:58,475 [vmsql][Thread:12][ERROR] Dnn.PersonaBar.SiteSettings.Services.LanguagesController - Could not find file 'C:\inetpub\wwwroot\dobroucky.com\App_GlobalResources\GlobalResources.cs-CZ.resx'.

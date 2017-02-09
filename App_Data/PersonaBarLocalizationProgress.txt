@@ -1,0 +1,1 @@
+{"CurrentOperationText":"","InProgress":false,"PrimaryTotal":3,"PrimaryValue":2,"PrimaryPercent":100,"SecondaryTotal":8,"SecondaryValue":8,"SecondaryPercent":100,"TimeEstimated":0,"Error":null}
