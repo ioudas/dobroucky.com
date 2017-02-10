@@ -1,0 +1,443 @@
+2017-02-09 13:55:29,008 [RD0003FF29DC54][Thread:8][ERROR] DotNetNuke.Data.SqlDataProvider - System.Data.SqlClient.SqlException (0x80131904): Reference to database and/or server name in 'master..xp_cmdshell' is not supported in this version of SQL Server.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteReader(SqlConnection connection, SqlTransaction transaction, CommandType commandType, String commandText, SqlParameter[] commandParameters, SqlConnectionOwnership connectionOwnership)
+   at DotNetNuke.Data.SqlDataProvider.ExecuteSQLInternal(String connectionString, String sql, Int32 timeout, String& errorMessage)
+ClientConnectionId:3cd96047-04b8-427b-95ce-2c4bd2850c46
+Error Number:40515,State:1,Class:15
+ClientConnectionId before routing:d4d0135c-12f6-4eb4-b1ce-878bcd09fde8
+Routing Destination:ca9e6b233115.tr16.westeurope1-a.worker.database.windows.net,11151
+2017-02-09 13:55:29,102 [RD0003FF29DC54][Thread:8][ERROR] DotNetNuke.Data.SqlDataProvider - System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'sys.xp_dirtree'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteReader(SqlConnection connection, SqlTransaction transaction, CommandType commandType, String commandText, SqlParameter[] commandParameters, SqlConnectionOwnership connectionOwnership)
+   at DotNetNuke.Data.SqlDataProvider.ExecuteSQLInternal(String connectionString, String sql, Int32 timeout, String& errorMessage)
+ClientConnectionId:3cd96047-04b8-427b-95ce-2c4bd2850c46
+Error Number:2812,State:62,Class:16
+ClientConnectionId before routing:d4d0135c-12f6-4eb4-b1ce-878bcd09fde8
+Routing Destination:ca9e6b233115.tr16.westeurope1-a.worker.database.windows.net,11151
+2017-02-09 13:55:29,102 [RD0003FF29DC54][Thread:8][ERROR] DotNetNuke.Data.SqlDataProvider - System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'sys.xp_fileexist'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteReader(SqlConnection connection, SqlTransaction transaction, CommandType commandType, String commandText, SqlParameter[] commandParameters, SqlConnectionOwnership connectionOwnership)
+   at DotNetNuke.Data.SqlDataProvider.ExecuteSQLInternal(String connectionString, String sql, Int32 timeout, String& errorMessage)
+ClientConnectionId:3cd96047-04b8-427b-95ce-2c4bd2850c46
+Error Number:2812,State:62,Class:16
+ClientConnectionId before routing:d4d0135c-12f6-4eb4-b1ce-878bcd09fde8
+Routing Destination:ca9e6b233115.tr16.westeurope1-a.worker.database.windows.net,11151
+2017-02-09 13:55:29,118 [RD0003FF29DC54][Thread:8][ERROR] DotNetNuke.Data.SqlDataProvider - System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'xp_regread'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Microsoft.ApplicationBlocks.Data.SqlHelper.ExecuteReader(SqlConnection connection, SqlTransaction transaction, CommandType commandType, String commandText, SqlParameter[] commandParameters, SqlConnectionOwnership connectionOwnership)
+   at DotNetNuke.Data.SqlDataProvider.ExecuteSQLInternal(String connectionString, String sql, Int32 timeout, String& errorMessage)
+ClientConnectionId:3cd96047-04b8-427b-95ce-2c4bd2850c46
+Error Number:2812,State:62,Class:16
+ClientConnectionId before routing:d4d0135c-12f6-4eb4-b1ce-878bcd09fde8
+Routing Destination:ca9e6b233115.tr16.westeurope1-a.worker.database.windows.net,11151
+2017-02-09 17:47:57,897 [RD0003FF29DC54][Thread:26][ERROR] DotNetNuke.Services.Authentication.OAuth.OAuthClientBase - WebResponse exception: {
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}
+2017-02-09 17:47:57,928 [RD0003FF29DC54][Thread:26][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:47:57,944 [RD0003FF29DC54][Thread:26][ERROR] DotNetNuke.Services.Exceptions.Exceptions - ~/Default.aspx?tabid=20&error=An unexpected error has occurred
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:48:38,843 [RD0003FF29DC54][Thread:25][ERROR] DotNetNuke.Services.Authentication.OAuth.OAuthClientBase - WebResponse exception: {
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}
+2017-02-09 17:48:38,859 [RD0003FF29DC54][Thread:25][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:48:38,859 [RD0003FF29DC54][Thread:25][ERROR] DotNetNuke.Services.Exceptions.Exceptions - ~/Default.aspx?tabid=20&error=An unexpected error has occurred
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:50:41,772 [RD0003FF29DC54][Thread:26][ERROR] DotNetNuke.Services.Authentication.OAuth.OAuthClientBase - WebResponse exception: {
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}
+2017-02-09 17:50:41,788 [RD0003FF29DC54][Thread:26][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:50:41,788 [RD0003FF29DC54][Thread:26][ERROR] DotNetNuke.Services.Exceptions.Exceptions - ~/Default.aspx?tabid=20&error=An unexpected error has occurred
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:50:46,010 [RD0003FF29DC54][Thread:5][ERROR] DotNetNuke.Services.Authentication.OAuth.OAuthClientBase - WebResponse exception: {
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}
+2017-02-09 17:50:46,010 [RD0003FF29DC54][Thread:5][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:50:46,010 [RD0003FF29DC54][Thread:5][ERROR] DotNetNuke.Services.Exceptions.Exceptions - ~/Default.aspx?tabid=20&error=An unexpected error has occurred
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:50:51,960 [RD0003FF29DC54][Thread:31][ERROR] DotNetNuke.Services.Authentication.OAuth.OAuthClientBase - WebResponse exception: {
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}
+2017-02-09 17:50:51,975 [RD0003FF29DC54][Thread:31][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:50:51,975 [RD0003FF29DC54][Thread:31][ERROR] DotNetNuke.Services.Exceptions.Exceptions - ~/Default.aspx?tabid=20&error=An unexpected error has occurred
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:53:27,443 [RD0003FF29DC54][Thread:37][ERROR] DotNetNuke.Services.Authentication.OAuth.OAuthClientBase - WebResponse exception: {
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}
+2017-02-09 17:53:27,459 [RD0003FF29DC54][Thread:37][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:53:27,459 [RD0003FF29DC54][Thread:37][ERROR] DotNetNuke.Services.Exceptions.Exceptions - ~/Default.aspx?tabid=20&error=An unexpected error has occurred
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:54:55,498 [RD0003FF29DC54][Thread:35][ERROR] DotNetNuke.Services.Authentication.OAuth.OAuthClientBase - WebResponse exception: {
+  "error" : "invalid_grant",
+  "error_description" : "Code was already redeemed."
+}
+2017-02-09 17:54:55,513 [RD0003FF29DC54][Thread:35][FATAL] DotNetNuke.Framework.PageBase - An error has occurred while loading page.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 17:54:55,513 [RD0003FF29DC54][Thread:35][ERROR] DotNetNuke.Services.Exceptions.Exceptions - ~/Default.aspx?tabid=20&error=An unexpected error has occurred
+System.ArgumentNullException: Value cannot be null.
+Parameter name: input
+   at System.Web.Script.Serialization.JavaScriptSerializer.Deserialize(JavaScriptSerializer serializer, String input, Type type, Int32 depthLimit)
+   at DotNetNuke.Authentication.Google.Components.GoogleClient.GetToken(String responseText)
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.ExchangeCodeForToken()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.AuthorizeV2()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthClientBase.Authorize()
+   at DotNetNuke.Services.Authentication.OAuth.OAuthLoginBase.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2017-02-09 18:39:27,807 [RD0003FF29DC54][Thread:38][ERROR] Dnn.PersonaBar.Users.Services.UsersController - System.Exception: The username is already in use.
+   at Dnn.PersonaBar.Users.Components.RegisterController.Register(RegisterationDetails registerationDetails)
+   at Dnn.PersonaBar.Users.Services.UsersController.CreateUser(CreateUserContract contract)
