@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="963f4057dad90cd32f1065e90190adb7" file="" compression="" version="59">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/Portals/_default/admin.css" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.css" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/css/bootstrap.min.css" />
+      <file name="/Portals/_default/Skins/Xcillion/css/jquery.smartmenus.bootstrap.css" />
+      <file name="/Portals/_default/Skins/Xcillion/Menus/MainMenu/MainMenu.css" />
+      <file name="/Portals/_default/Skins/Xcillion/skin.css" />
+      <file name="/Portals/0/portal.css" />
+      <file name="/Portals/0/home.css" />
+      <file name="/DesktopModules/admin/Dnn.PersonaBar/css/personaBarContainer.css" />
+      <file name="/Resources/Shared/Components/Tokeninput/Themes/token-input-facebook.css" />
+    </files>
+  </item>
+  <item key="41870c76b5309063cfe946b9179865ab" file="" compression="" version="59">
+    <files>
+      <file name="/Resources/libraries/jQuery/01_09_01/jquery.js" />
+      <file name="/Resources/libraries/jQuery-UI/01_11_03/jquery-ui.js" />
+      <file name="/Resources/libraries/Knockout/03_03_00/knockout.js" />
+    </files>
+  </item>
+  <item key="898e8175ab487f17895fe918def15d77" file="" compression="" version="59">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/js/bootstrap.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.bootstrap.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/scripts.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/Resources/Shared/Components/Tokeninput/jquery.tokeninput.js" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.js" />
+      <file name="/js/dnn.servicesframework.js" />
+      <file name="/Resources/Shared/Scripts/dnn.jquery.js" />
+    </files>
+  </item>
+  <item key="86972f2e5fcb1cdcba485f06984d4856" file="" compression="" version="59">
+    <files>
+      <file name="/Resources/libraries/Knockout.Mapping/02_04_01/knockout.mapping.js" />
+    </files>
+  </item>
+  <item key="41870c76b5309063cfe946b9179865ab" file="D:\home\site\wwwroot\App_Data\ClientDependency\59_62d3a75da5dc48a7af80e64db1dbffc1.cdJ" compression="gzip" version="59">
+    <files />
+  </item>
+  <item key="963f4057dad90cd32f1065e90190adb7" file="D:\home\site\wwwroot\App_Data\ClientDependency\59_3c394f67249644e4887cc3701dc15823.cdC" compression="gzip" version="59">
+    <files />
+  </item>
+  <item key="898e8175ab487f17895fe918def15d77" file="D:\home\site\wwwroot\App_Data\ClientDependency\59_cfc3b36da61c488da47713fa6cc87f4b.cdJ" compression="gzip" version="59">
+    <files />
+  </item>
+  <item key="86972f2e5fcb1cdcba485f06984d4856" file="D:\home\site\wwwroot\App_Data\ClientDependency\59_780500cd59d342bda0b524578d50d39d.cdJ" compression="gzip" version="59">
+    <files />
+  </item>
+  <item key="76ddc3b7bda488a55e4aabc70871d6b2" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/Portals/_default/admin.css" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.css" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/css/bootstrap.min.css" />
+      <file name="/Portals/_default/Skins/Xcillion/css/jquery.smartmenus.bootstrap.css" />
+      <file name="/Portals/_default/Skins/Xcillion/Menus/MainMenu/MainMenu.css" />
+      <file name="/Portals/_default/Skins/Xcillion/skin.css" />
+      <file name="/Portals/0/portal.css" />
+      <file name="/Portals/0/home.css" />
+    </files>
+  </item>
+  <item key="bfade11cdfd55ef2d4f8ccc8c83ad131" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/libraries/jQuery/01_09_01/jquery.js" />
+      <file name="/Resources/libraries/jQuery-UI/01_11_03/jquery-ui.js" />
+    </files>
+  </item>
+  <item key="4c2cb8342cd82ddf958aedb943178207" file="" compression="" version="60">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/js/bootstrap.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.bootstrap.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/scripts.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.js" />
+      <file name="/js/dnn.servicesframework.js" />
+    </files>
+  </item>
+  <item key="76ddc3b7bda488a55e4aabc70871d6b2" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_ab53cc4dd97f4f149d9a62675a4b3f6b.cdC" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="4c2cb8342cd82ddf958aedb943178207" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_0d84e431d63d4462af3d655fd80ef411.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="bfade11cdfd55ef2d4f8ccc8c83ad131" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_369c8a8a503c4570ac0f5619102c4324.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="97471e915cab8f23c810c23997de8add" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/Portals/_default/admin.css" />
+      <file name="/DesktopModules/Admin/Authentication/module.css" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.css" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/css/bootstrap.min.css" />
+      <file name="/Portals/_default/Skins/Xcillion/css/jquery.smartmenus.bootstrap.css" />
+      <file name="/Portals/_default/Skins/Xcillion/Menus/MainMenu/MainMenu.css" />
+      <file name="/Portals/_default/Skins/Xcillion/skin.css" />
+      <file name="/Portals/0/portal.css" />
+      <file name="/Portals/0/home.css" />
+    </files>
+  </item>
+  <item key="46090dbdf06430e06e644222f7dcb800" file="" compression="" version="60">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/js/bootstrap.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.bootstrap.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/scripts.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.js" />
+      <file name="/js/dnn.servicesframework.js" />
+      <file name="/Resources/Shared/Scripts/dnn.jquery.js" />
+    </files>
+  </item>
+  <item key="97471e915cab8f23c810c23997de8add" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_a3269e8f8e35437ea57810c6c982d73e.cdC" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="46090dbdf06430e06e644222f7dcb800" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_8840bd5dcb5c40999d6c4a93426e8b10.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="e5af37e484a6c22401ad3ab81cbb2d9e" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/Portals/_default/admin.css" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.css" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/css/bootstrap.min.css" />
+      <file name="/Portals/_default/Skins/Xcillion/css/jquery.smartmenus.bootstrap.css" />
+      <file name="/Portals/_default/Skins/Xcillion/Menus/MainMenu/MainMenu.css" />
+      <file name="/Portals/_default/Skins/Xcillion/skin.css" />
+      <file name="/Portals/0/portal.css" />
+      <file name="/Portals/0/home.css" />
+      <file name="/DesktopModules/admin/Dnn.PersonaBar/css/personaBarContainer.css" />
+      <file name="/Resources/Shared/Components/Tokeninput/Themes/token-input-facebook.css" />
+    </files>
+  </item>
+  <item key="c0c780f3b15a92587e5d70328894c8ce" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/libraries/jQuery/01_09_01/jquery.js" />
+      <file name="/Resources/libraries/jQuery-UI/01_11_03/jquery-ui.js" />
+      <file name="/Resources/libraries/Knockout/03_03_00/knockout.js" />
+    </files>
+  </item>
+  <item key="9e729db2a5451c1b70699246491d545f" file="" compression="" version="60">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/js/bootstrap.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.bootstrap.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/scripts.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/Resources/Shared/Components/Tokeninput/jquery.tokeninput.js" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.js" />
+      <file name="/js/dnn.servicesframework.js" />
+      <file name="/Resources/Shared/Scripts/dnn.jquery.js" />
+    </files>
+  </item>
+  <item key="994bebe0ad02c4890271e3aa4f679792" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/libraries/Knockout.Mapping/02_04_01/knockout.mapping.js" />
+    </files>
+  </item>
+  <item key="e5af37e484a6c22401ad3ab81cbb2d9e" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_b1da66d3a2b4481f8c900abedfdd3d85.cdC" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="c0c780f3b15a92587e5d70328894c8ce" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_80f00cdf7b0841e6bc87fde56743c954.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="9e729db2a5451c1b70699246491d545f" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_fa3ca2fc04be4bd88537f66a0d7bdd0b.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="994bebe0ad02c4890271e3aa4f679792" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_5ed5584c7a57457eac006ac42ac74066.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="348dcf58e937380e35945154c9ac37f2" file="" compression="" version="60">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/Resources/Shared/scripts/dnn.jquery.extensions.js" />
+      <file name="/Resources/Shared/scripts/dnn.jquery.tooltip.js" />
+      <file name="/DesktopModules/Admin/Security/Scripts/dnn.PasswordComparer.js" />
+      <file name="/Resources/Shared/scripts/dnn.PasswordStrength.js" />
+      <file name="/Resources/Shared/Scripts/dnn.jquery.js" />
+    </files>
+  </item>
+  <item key="cc4f0411a1d18d639d082a0d59fef5df" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/DesktopModules/Admin/Security/module.css" />
+      <file name="/Resources/Shared/stylesheets/dnn.PasswordStrength.css" />
+      <file name="/Portals/0/portal.css" />
+      <file name="/Portals/0/home.css" />
+    </files>
+  </item>
+  <item key="cc4f0411a1d18d639d082a0d59fef5df" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_90d68a03edbe4cc0bccae219a138a7d5.cdC" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="348dcf58e937380e35945154c9ac37f2" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_e1088f4900fe4239964944a2edd56f94.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="1b4bee80c77f3c24987a5114488b9acf" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/Portals/_default/admin.css" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.css" />
+      <file name="/Portals/_default/skins/xcillion/bootstrap/css/bootstrap.min.css" />
+      <file name="/Portals/_default/skins/xcillion/css/jquery.smartmenus.bootstrap.css" />
+      <file name="/Portals/_default/skins/xcillion/Menus/MainMenu/MainMenu.css" />
+      <file name="/Portals/_default/skins/xcillion/skin.css" />
+      <file name="/Portals/0/portal.css" />
+    </files>
+  </item>
+  <item key="d667db7c0ac99946e0768b104c2f9dce" file="" compression="" version="60">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Portals/_default/skins/xcillion/bootstrap/js/bootstrap.min.js" />
+      <file name="/Portals/_default/skins/xcillion/js/jquery.smartmenus.js" />
+      <file name="/Portals/_default/skins/xcillion/js/jquery.smartmenus.bootstrap.js" />
+      <file name="/Portals/_default/skins/xcillion/js/scripts.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.js" />
+      <file name="/js/dnn.servicesframework.js" />
+    </files>
+  </item>
+  <item key="1b4bee80c77f3c24987a5114488b9acf" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_ec4b2421e4cc41ca9c19fb63ffe0c459.cdC" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="d667db7c0ac99946e0768b104c2f9dce" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_bbc4d89755f341a1ac3c654deaa7aec4.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="99861b354172e5ee647cf50e043fdec2" file="" compression="" version="60">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/Providers/HtmlEditorProviders/DNNConnect.CKE/js/editorOverride.js" />
+      <file name="/Resources/Shared/components/CountriesRegions/dnn.CountriesRegions.js" />
+      <file name="/Resources/Shared/Scripts/initTooltips.js" />
+      <file name="/js/dnn.servicesframework.js" />
+      <file name="/Resources/Shared/scripts/dnn.extensions.js" />
+      <file name="/Resources/Shared/scripts/dnn.jquery.extensions.js" />
+      <file name="/Resources/Shared/scripts/dnn.DataStructures.js" />
+      <file name="/Resources/Shared/scripts/jquery/jquery.mousewheel.js" />
+      <file name="/Resources/Shared/scripts/jquery/dnn.jScrollBar.js" />
+      <file name="/Resources/Shared/scripts/TreeView/dnn.TreeView.js" />
+      <file name="/Resources/Shared/scripts/TreeView/dnn.DynamicTreeView.js" />
+      <file name="/Resources/Shared/Components/DropDownList/dnn.DropDownList.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.iframe-transport.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.fileupload.js" />
+      <file name="/Resources/Shared/Scripts/dnn.jquery.js" />
+      <file name="/Resources/Shared/scripts/dnn.WebResourceUrl.js" />
+      <file name="/Resources/Shared/Components/FileUpload/dnn.FileUpload.js" />
+    </files>
+  </item>
+  <item key="ae658de8a5fa40026c0932833600ec42" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/Resources/Shared/components/CountriesRegions/dnn.CountriesRegions.css" />
+      <file name="/DesktopModules/Admin/Security/module.css" />
+      <file name="/Portals/_default/Skins/_default/WebControlSkin/Default/DatePicker.Default.css" />
+      <file name="/Resources/Shared/components/DropDownList/dnn.DropDownList.css" />
+      <file name="/Resources/Shared/scripts/jquery/dnn.jScrollBar.css" />
+      <file name="/Resources/Shared/Components/FileUpload/dnn.FileUpload.css" />
+      <file name="/Portals/0/portal.css" />
+      <file name="/Providers/HtmlEditorProviders/DNNConnect.CKE/css/CKEditorToolBars.css" />
+      <file name="/Providers/HtmlEditorProviders/DNNConnect.CKE/css/CKEditorOverride.css" />
+    </files>
+  </item>
+  <item key="ae658de8a5fa40026c0932833600ec42" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_c223752fca904bc8b9c66788674f4e68.cdC" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="d9b09222c3a4fd7b683b6c20fd7b5ccd" file="" compression="" version="60">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js" />
+      <file name="/Resources/Shared/Components/Tokeninput/jquery.tokeninput.js" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/js/bootstrap.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.bootstrap.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/scripts.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/desktopmodules/admin/console/scripts/jquery.console.js" />
+      <file name="/DesktopModules/CoreMessaging/Scripts/CoreMessaging.js" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.js" />
+      <file name="/js/dnn.servicesframework.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.iframe-transport.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.fileupload.js" />
+      <file name="/Resources/Shared/Scripts/dnn.jquery.js" />
+      <file name="/Resources/Shared/Components/ComposeMessage/ComposeMessage.js" />
+      <file name="/Resources/Shared/Components/UserFileManager/UserFileManager.js" />
+      <file name="/Resources/Shared/Scripts/jquery.history.js" />
+      <file name="/Resources/Shared/Components/UserFileManager/jquery.dnnUserFileUpload.js" />
+    </files>
+  </item>
+  <item key="94dec5e2f8a17e3740684d57db9fcc2c" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/Portals/_default/admin.css" />
+      <file name="/DesktopModules/Admin/Console/module.css" />
+      <file name="/DesktopModules/CoreMessaging/module.css" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.css" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/css/bootstrap.min.css" />
+      <file name="/Portals/_default/Skins/Xcillion/css/jquery.smartmenus.bootstrap.css" />
+      <file name="/Portals/_default/Skins/Xcillion/Menus/MainMenu/MainMenu.css" />
+      <file name="/Portals/_default/Skins/Xcillion/skin.css" />
+      <file name="/Portals/0/portal.css" />
+      <file name="/Resources/Shared/Components/ComposeMessage/ComposeMessage.css" />
+      <file name="/Resources/Shared/Components/UserFileManager/UserFileManager.css" />
+      <file name="/Resources/Shared/Components/Tokeninput/Themes/token-input-facebook.css" />
+      <file name="/DesktopModules/admin/Dnn.PersonaBar/css/personaBarContainer.css" />
+    </files>
+  </item>
+  <item key="6ae3ed9769215894737a7a0923115655" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/libraries/jQuery/01_09_01/jquery.js" />
+      <file name="/Resources/libraries/jQuery-Migrate/01_02_01/jquery-migrate.js" />
+      <file name="/Resources/libraries/jQuery-UI/01_11_03/jquery-ui.js" />
+      <file name="/Resources/libraries/Knockout/03_03_00/knockout.js" />
+    </files>
+  </item>
+  <item key="94dec5e2f8a17e3740684d57db9fcc2c" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_b791ab194f3740ae8f55691220295900.cdC" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="6ae3ed9769215894737a7a0923115655" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_c2179cf897434c57a830883ec6c15ebd.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="d9b09222c3a4fd7b683b6c20fd7b5ccd" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_19fa2082974049b2bf52b4ae44659057.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="2ddac4e01881b477ad7aa552c0da1d4b" file="" compression="" version="60">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/js/bootstrap.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.bootstrap.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/scripts.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/desktopmodules/admin/console/scripts/jquery.console.js" />
+      <file name="/DesktopModules/Journal/Scripts/journal.js" />
+      <file name="/DesktopModules/Journal/Scripts/journalcomments.js" />
+      <file name="/DesktopModules/Journal/Scripts/mentionsInput.js" />
+      <file name="/Resources/Shared/Scripts/json2.js" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.js" />
+      <file name="/js/dnn.servicesframework.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.iframe-transport.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.fileupload.js" />
+      <file name="/Resources/Shared/Scripts/dnn.jquery.js" />
+      <file name="/Resources/Shared/Components/UserFileManager/jquery.dnnUserFileUpload.js" />
+      <file name="/Resources/Shared/Components/UserFileManager/UserFileManager.js" />
+    </files>
+  </item>
+  <item key="7efc0ad66ac311d6189bce8fa29c4dc9" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/Portals/_default/admin.css" />
+      <file name="/DesktopModules/Admin/Console/module.css" />
+      <file name="/DesktopModules/Journal/module.css" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.css" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/css/bootstrap.min.css" />
+      <file name="/Portals/_default/Skins/Xcillion/css/jquery.smartmenus.bootstrap.css" />
+      <file name="/Portals/_default/Skins/Xcillion/Menus/MainMenu/MainMenu.css" />
+      <file name="/Portals/_default/Skins/Xcillion/skin.css" />
+      <file name="/Portals/0/portal.css" />
+      <file name="/Resources/Shared/Components/UserFileManager/UserFileManager.css" />
+    </files>
+  </item>
+  <item key="7efc0ad66ac311d6189bce8fa29c4dc9" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_9fb107f81176480d9f4bb74feda61abe.cdC" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="2ddac4e01881b477ad7aa552c0da1d4b" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_5091085af55e4788a44df093cf4843fa.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="43752c92b05f883753a9097340e3d476" file="" compression="" version="60">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/js/bootstrap.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.bootstrap.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/scripts.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/desktopmodules/admin/console/scripts/jquery.console.js" />
+      <file name="/DesktopModules/Journal/Scripts/journal.js" />
+      <file name="/DesktopModules/Journal/Scripts/journalcomments.js" />
+      <file name="/DesktopModules/Journal/Scripts/mentionsInput.js" />
+      <file name="/Resources/Shared/Scripts/json2.js" />
+      <file name="/Resources/Shared/Components/Tokeninput/jquery.tokeninput.js" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.js" />
+      <file name="/js/dnn.servicesframework.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.iframe-transport.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.fileupload.js" />
+      <file name="/Resources/Shared/Scripts/dnn.jquery.js" />
+      <file name="/Resources/Shared/Components/UserFileManager/jquery.dnnUserFileUpload.js" />
+      <file name="/Resources/Shared/Components/UserFileManager/UserFileManager.js" />
+    </files>
+  </item>
+  <item key="ae8a79dd65574978e6251608cc2f7be7" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/Portals/_default/admin.css" />
+      <file name="/DesktopModules/Admin/Console/module.css" />
+      <file name="/DesktopModules/Journal/module.css" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.css" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/css/bootstrap.min.css" />
+      <file name="/Portals/_default/Skins/Xcillion/css/jquery.smartmenus.bootstrap.css" />
+      <file name="/Portals/_default/Skins/Xcillion/Menus/MainMenu/MainMenu.css" />
+      <file name="/Portals/_default/Skins/Xcillion/skin.css" />
+      <file name="/Portals/0/portal.css" />
+      <file name="/Resources/Shared/Components/UserFileManager/UserFileManager.css" />
+      <file name="/DesktopModules/admin/Dnn.PersonaBar/css/personaBarContainer.css" />
+      <file name="/Resources/Shared/Components/Tokeninput/Themes/token-input-facebook.css" />
+    </files>
+  </item>
+  <item key="ae8a79dd65574978e6251608cc2f7be7" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_552b5006be814aad8a724ae0ef621e60.cdC" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="43752c92b05f883753a9097340e3d476" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_9c6bff5f7f614a05909a2e357889ffa6.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="99861b354172e5ee647cf50e043fdec2" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_fa2da245ea124a098e473c56b11b5c9d.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="695ef2a0b0b4cdd31b5c7d64ccc63cac" file="" compression="" version="60">
+    <files>
+      <file name="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css" />
+      <file name="/Portals/_default/admin.css" />
+      <file name="/DesktopModules/DigitalAssets/module.css" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.css" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/css/bootstrap.min.css" />
+      <file name="/Portals/_default/Skins/_default/WebControlSkin/Default/Grid.Default.css" />
+      <file name="/Portals/_default/Skins/_default/WebControlSkin/Default/ComboBox.Default.css" />
+      <file name="/Resources/Shared/components/DropDownList/dnn.DropDownList.css" />
+      <file name="/Resources/Shared/scripts/jquery/dnn.jScrollBar.css" />
+      <file name="/Resources/Shared/Components/FileUpload/dnn.FileUpload.css" />
+      <file name="/Portals/_default/Skins/Xcillion/css/jquery.smartmenus.bootstrap.css" />
+      <file name="/Portals/_default/Skins/Xcillion/Menus/MainMenu/MainMenu.css" />
+      <file name="/Portals/_default/Skins/Xcillion/skin.css" />
+      <file name="/Portals/0/portal.css" />
+      <file name="/DesktopModules/admin/Dnn.PersonaBar/css/personaBarContainer.css" />
+      <file name="/Resources/Shared/Components/Tokeninput/Themes/token-input-facebook.css" />
+    </files>
+  </item>
+  <item key="e4f2d548e437d06074bcf98c8faedb58" file="" compression="" version="60">
+    <files>
+      <file name="/js/dnn.js" />
+      <file name="/js/dnn.modalpopup.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/bootstrap/js/bootstrap.min.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/jquery.smartmenus.bootstrap.js" />
+      <file name="/Portals/_default/Skins/Xcillion/js/scripts.js" />
+      <file name="/js/dnncore.js" />
+      <file name="/DesktopModules/DigitalAssets/ClientScripts/dnn.DigitalAssetsController.js" />
+      <file name="/Resources/Shared/Components/Tokeninput/jquery.tokeninput.js" />
+      <file name="/Resources/Search/SearchSkinObjectPreview.js" />
+      <file name="/js/dnn.servicesframework.js" />
+      <file name="/Resources/Shared/scripts/dnn.extensions.js" />
+      <file name="/Resources/Shared/scripts/dnn.jquery.extensions.js" />
+      <file name="/Resources/Shared/scripts/dnn.DataStructures.js" />
+      <file name="/Resources/Shared/scripts/jquery/jquery.mousewheel.js" />
+      <file name="/Resources/Shared/scripts/jquery/dnn.jScrollBar.js" />
+      <file name="/Resources/Shared/scripts/TreeView/dnn.TreeView.js" />
+      <file name="/Resources/Shared/scripts/TreeView/dnn.DynamicTreeView.js" />
+      <file name="/Resources/Shared/Components/DropDownList/dnn.DropDownList.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.iframe-transport.js" />
+      <file name="/Resources/Shared/Scripts/jquery/jquery.fileupload.js" />
+      <file name="/Resources/Shared/Scripts/dnn.jquery.js" />
+      <file name="/DesktopModules/DigitalAssets/ClientScripts/dnn.DigitalAssets.js" />
+      <file name="/Resources/Shared/scripts/dnn.WebResourceUrl.js" />
+      <file name="/Resources/Shared/Components/FileUpload/dnn.FileUpload.js" />
+      <file name="/DesktopModules/DigitalAssets/ClientScripts/dnn.DigitalAssets.SearchBox.js" />
+    </files>
+  </item>
+  <item key="695ef2a0b0b4cdd31b5c7d64ccc63cac" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_0f9f2f2493824ad8ba309f466e8f8fe9.cdC" compression="gzip" version="60">
+    <files />
+  </item>
+  <item key="e4f2d548e437d06074bcf98c8faedb58" file="D:\home\site\wwwroot\App_Data\ClientDependency\60_98e95e94bc324464a770f08b5005de8a.cdJ" compression="gzip" version="60">
+    <files />
+  </item>
+</map>
