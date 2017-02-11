@@ -42,8 +42,8 @@
                         <dnn:SEARCH ID="dnnSearch" runat="server" ShowSite="false" ShowWeb="false" EnableTheming="true" Submit="Search" CssClass="SearchButton" />
                     </div>
                     <%-- search action for Search function on small devices --%>
-                    <a href="#" id="search-action">
-                    </a>--%>
+                    <%--<a href="#" id="search-action">
+                    </a>--%>--%>
                     <%--<div id="login" class="pull-right">
                          No Login & User control for this skin 
                     </div>--%>
