@@ -1,4 +1,5 @@
 /App_Data/ClientDependency/
+/App_Data/Search/
 /Portals/_default/Logs/*.resources
 /packages/
 /.vs/
