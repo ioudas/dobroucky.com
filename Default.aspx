@@ -18,13 +18,11 @@
     <asp:placeholder id="CSS" runat="server" />
     <asp:placeholder id="SCRIPTS" runat="server" />
     <link href="https://fonts.googleapis.com/css?family=Lato|Qwigley" rel="stylesheet">
-    <link rel="stylesheet" href="/Resources/Shared/stylesheets/flexslider-kwiks.css" type="text/css">
+    <link rel="stylesheet" href="/Resources/Shared/stylesheets/responsiveslides.css" type="text/css">
     <link rel="stylesheet" href="/Resources/Shared/stylesheets/data-table.css" type="text/css">
-    <script src="/Resources/Shared/scripts/jquery.flexslider-min.js"></script>
-    <script src="/Resources/Shared/scripts/css3-mediaqueries.js"></script>
-    <script src="/Resources/Shared/scripts/kwiks.js"></script>
-    <script src="/Resources/Shared/scripts/slider-gallery.js"></script>
+    <script src="/Resources/Shared/scripts/responsiveslides.min.js"></script>
     <script src="/Resources/Shared/scripts/galleria/galleria-1.5.1.min.js"></script>
+    <script src="/Resources/Shared/scripts/copyright-handler.js"></script>
 </head>
 <body id="Body" runat="server">
     
