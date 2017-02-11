@@ -1,3 +1,4 @@
 /App_Data/ClientDependency/
 /Portals/_default/Logs/*.resources
 /packages/
+/.vs/

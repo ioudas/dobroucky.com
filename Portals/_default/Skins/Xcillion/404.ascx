@@ -37,12 +37,13 @@
                     <div class="language">
                         <dnn:LANGUAGE runat="server" id="LANGUAGE1"  showMenu="False" showLinks="True" />
                     </div>
-                    <div class="search hidden-xs">
+                    <%--ioudas - DISABLED SEARCH--%>
+                    <%--<div class="search hidden-xs">
                         <dnn:SEARCH ID="dnnSearch" runat="server" ShowSite="false" ShowWeb="false" EnableTheming="true" Submit="Search" CssClass="SearchButton" />
                     </div>
                     <%-- search action for Search function on small devices --%>
                     <a href="#" id="search-action">
-                    </a>
+                    </a>--%>
                     <%--<div id="login" class="pull-right">
                          No Login & User control for this skin 
                     </div>--%>
