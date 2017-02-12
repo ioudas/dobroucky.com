@@ -5,7 +5,7 @@ Azure automatically pulls changes from this repo.
 Make sure correct DB connection string is uncommented for production.
 
 ## Database
-Database is deployed, including all data, using DACPAC in `./Database/ folder`
+Database is deployed, including all data, using DACPAC in `./Database/` folder
 
 ### Creating DACPAC
 1. Execute the correct branch of `./Database/Site_alias_change.sql`
