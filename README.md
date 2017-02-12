@@ -15,4 +15,4 @@ Database is deployed, including all data, using DACPAC in `./Database/` folder
 ### Deploying DACPAC
 1. In MSMT: right click on target database, select tasks->Upgrade Data-Tier Application and select the dacpac in this folder
 
-> If database is too big to fit the free-tier Azure's 32MB limit, clear big tables and truncate database and recreate dacpac
+> If database is too big to fit the free-tier Azure's 32MB limit, clear big tables and shrink database and recreate dacpac
